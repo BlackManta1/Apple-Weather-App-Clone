@@ -16,9 +16,9 @@ Il s'agit d'un exercice dont le but etait de reproduire l'application Meteo Appl
 ![IMG_E0B870A325CE-1](https://user-images.githubusercontent.com/46055179/60755642-7c2a3e00-a003-11e9-9148-6ae27279e91e.jpeg)
 
 ## Credits : 
-[] Premiere version de l'application terminee le samedi 6 Juillet 2019. (Version 1.00)
-[] Realise en suivant des enseignements suivit sur la plateforme Udemy.
-[] Application non publiee sur l'App Store.
+- [x] Premiere version de l'application terminee le samedi 6 Juillet 2019. (Version 1.00)
+- [x] Realise en suivant des enseignements suivit sur la plateforme Udemy.
+- [x] Application non publiee sur l'App Store.
 
 ###### Copyright © 2019 Saliou DJALO. All rights reserved.
 
