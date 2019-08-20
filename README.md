@@ -13,7 +13,12 @@ Il s'agit d'un exercice dont le but etait de reproduire l'application Meteo Appl
 - La seule autorisation demande dans le info.plist est : Privacy - Location When In Use Usage Description
 
 ## Capture d'ecran :
-![IMG_E0B870A325CE-1](https://user-images.githubusercontent.com/46055179/60755642-7c2a3e00-a003-11e9-9148-6ae27279e91e.jpeg)
+
+<p align="left">
+<img src="https://user-images.githubusercontent.com/46055179/60755642-7c2a3e00-a003-11e9-9148-6ae27279e91e.jpeg" width="250">
+</p>
+
+
 
 ## Credits : 
 - [x] Premiere version de l'application terminee le samedi 6 Juillet 2019. (Version 1.00)
